@@ -83,7 +83,7 @@
   <project name="android_hardware_qcom_power" path="hardware/qcom/power" remote="XOS" />
 
   <!-- Manifest -->
-  <project name="ProjectVenomOS/android_manifest" path="manifest" remote="github" />
+  <project name="ProjectVenomOS/android_manifest" path="manifest" remote="github" revision="XOS-8.1" />
 
   <!-- Packages -->
   <project name="android_packages_apps_Camera2" path="packages/apps/Camera2" remote="XOS" />
